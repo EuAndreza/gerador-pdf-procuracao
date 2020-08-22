@@ -46,7 +46,7 @@ canvas.drawString(30,630,'inscrito(a) no CPF/MF sob nº:')
 
 #linha apos cpf
 canvas.line(190,630,390,630)
-cpf = '704.430.794-98'
+cpf = '000.000.000-00'
 canvas.drawString(200,633,cpf)
 #canvas.line(ponto de partida da linha,posição do ponto de partida da linha,ponto final da linha,posição do ponto final da linha)
 
